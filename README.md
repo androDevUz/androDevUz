@@ -4,7 +4,7 @@
 
 <h4 align="center">🙏 We're dedicated to supporting the Android development community in Uzbekistan and beyond. Your contributions and feedback are highly appreciated!</h4>
 
-<h3> 📌 // . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . // 📌 </h3>
+<h3> 📌 // . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . // 📌 </h3>
 
 <h3 align="center"> 🌐 Connect with Us: </h3>
 
@@ -17,6 +17,6 @@
 <h4> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="32"/>
 <a href="https://Instagram.com/androdev.uz" target="_blank">Instagram insights.</a> Follow us on Instagram for quick tips, updates, and behind-the-scenes glimpses into our Android development journey. </h4>
 
-<h3> 📌 // . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . // 📌 </h3>
+<h3> 📌 // . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . // 📌 </h3>
 
 <h3 align="center"> 🚀 Happy Coding and Building Amazing Android Apps with AndroDevUz! 📱💻 </h3>
