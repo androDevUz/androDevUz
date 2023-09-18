@@ -4,6 +4,8 @@
 
 <h4 align="center">🙏 We're dedicated to supporting the Android development community in Uzbekistan and beyond. Your contributions and feedback are highly appreciated!</h4>
 
+<h4 align="center">🎯 Here you can find projects written in AndroDevUz videos on YouTube. And you can clone the repository for viewing or learning. 💻</h4>
+
 <h3 align="center"> 📌 // . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . // 📌 </h3>
 
 <h3 align="center"> 🌐 Connect with Us: </h3>
